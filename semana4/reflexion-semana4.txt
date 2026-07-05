@@ -1,0 +1,11 @@
+El uso de tecnologías abiertas como Node.js es fundamental para que las comunidades
+e iniciativas ciudadanas construyan sus propias herramientas tecnológicas sin depender de software
+privatizado o infraestructuras corporativas restrictivas. Al basarse en estándares abiertos, estas
+plataformas garantizan la soberanía tecnológica y la transparencia, permitiendo auditar el código
+fuente para asegurar el manejo ético de la información local. Node.js, al utilizar JavaScript tanto
+en el cliente como en el servidor, reduce significativamente la curva de aprendizaje, facilitando que
+desarrolladores locales colaboren directamente en proyectos comunitarios. Esto permite adaptar las
+soluciones a problemáticas sociales específicas del entorno sin incurrir en costos elevados de
+licenciamiento, promoviendo la descentralización del conocimiento y fomentando un ecosistema digital
+autogestionado, escalable y duradero en el tiempo.
+
