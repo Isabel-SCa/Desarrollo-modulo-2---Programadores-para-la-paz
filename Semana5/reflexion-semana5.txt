@@ -1,0 +1,9 @@
+Las interfaces de programación de aplicaciones (APIs) son herramientas críticas para la
+organización de los flujos de información en entornos comunitarios o procesos participativos.
+Al establecer puntos de acceso estandarizados mediante rutas fijas (endpoints), se elimina la
+dispersión de datos común de canales informales como la mensajería instantánea. Las APIs permiten
+que múltiples interfaces, ya sean aplicaciones móviles o formularios web, envíen reportes ciudadanos
+estructurados bajo un único formato común (JSON). Esto hace posible que el backend procese, clasifique
+y filtre de forma automática las alertas por categorías o zonas geográficas. En consecuencia, se optimiza
+la velocidad de respuesta de los coordinadores y se genera una base de datos transparente, organizada y
+auditable que facilita el seguimiento real de las incidencias del entorno urbano.

@@ -1,0 +1,4 @@
+Esta ruta intercepta peticiones HTTP bajo el método POST en el endpoint /reporte.
+Utiliza el middleware express.json() para parsear el cuerpo de la solicitud (Body), extrae la
+propiedad mensaje enviada por el cliente en formato JSON (req.body.mensaje) y retorna una respuesta
+estructurada en formato JSON confirmando el estado de la operación.

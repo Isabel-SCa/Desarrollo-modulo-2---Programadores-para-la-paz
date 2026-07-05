@@ -1,0 +1,10 @@
+http://localhost:3000: El navegador muestra el texto "Servidor activo". Ocurre porque
+la petición coincide con la ruta raíz del servidor (/), ejecutando su callback correspondiente.
+
+http://localhost:3000/saludo: El navegador muestra el texto "Hola comunidad". La petición fue
+redirigida al endpoint específico de saludo.
+
+http://localhost:3000/mensaje/juan: El navegador muestra "Hola juan". El servidor procesó la palabra
+"juan" como el parámetro dinámico :nombre (req.params.nombre) y la concatenó en la respuesta devuelta
+al cliente.
+
